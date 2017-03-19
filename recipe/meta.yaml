@@ -1,7 +1,7 @@
 {%set name = "snakebite" %}
-{%set version = "2.10.1" %}
+{%set version = "2.11.0" %}
 {%set hash_type = "sha256" %}
-{%set hash_val = "5827bb94a0c92ede9fa54f1bfe9d9d65d7941e72a3b5e545dc19cc3f3e389f50" %}
+{%set hash_val = "085238b4944cb9c658ee62d5794de936ac3d0c337c504b2cc86424a205ae978a" %}
 
 package:
   name: {{ name }}
