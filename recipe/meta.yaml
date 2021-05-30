@@ -11,8 +11,7 @@ source:
   sha256: 085238b4944cb9c658ee62d5794de936ac3d0c337c504b2cc86424a205ae978a
 
 build:
-  skip: True  # [py3k]
-  number: 1000
+  number: 0
   script: python -m pip install --no-deps --ignore-installed -vv .
 
 requirements:
@@ -37,3 +36,4 @@ about:
 extra:
   recipe-maintainers:
     - pmlandwehr
+    - jan-janssen
