@@ -30,7 +30,9 @@ test:
 
 about:
   home: http://github.com/spotify/snakebite
+  license_file: LICENSE
   license: Apache 2.0
+  license_family: Apache
   summary: 'Pure Python HDFS client'
 
 extra:
